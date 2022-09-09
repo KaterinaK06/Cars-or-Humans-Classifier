@@ -8,7 +8,40 @@
 ## Model architecture
 
 ```
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ conv2d (Conv2D)             (None, 298, 298, 16)      448
 
+ max_pooling2d (MaxPooling2D  (None, 149, 149, 16)     0
+ )
+
+ conv2d_1 (Conv2D)           (None, 147, 147, 32)      4640
+
+ max_pooling2d_1 (MaxPooling  (None, 73, 73, 32)       0
+ 2D)
+
+ conv2d_2 (Conv2D)           (None, 71, 71, 64)        18496
+
+ max_pooling2d_2 (MaxPooling  (None, 35, 35, 64)       0
+ 2D)
+
+ conv2d_3 (Conv2D)           (None, 33, 33, 64)        36928
+
+ max_pooling2d_3 (MaxPooling  (None, 16, 16, 64)       0
+ 2D)
+
+ flatten (Flatten)           (None, 16384)             0
+
+ dense (Dense)               (None, 512)               8389120
+ dense_1 (Dense)             (None, 1)                 513
+
+=================================================================
+Total params: 8,450,145
+Trainable params: 8,450,145
+Non-trainable params: 0
+_________________________________________________________________
 ```
 
 
