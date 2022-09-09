@@ -48,7 +48,7 @@ _________________________________________________________________
 
 ## Demonstration with random images from Google
 
-#### Image of a car
+### Image of a car
 
 ![image of a car](https://media.wired.com/photos/5d09594a62bcb0c9752779d9/191:100/w_1280,c_limit/Transpo_G70_TA-518126.jpg)
 
@@ -59,7 +59,7 @@ _________________________________________________________________
 This is a car
 ```
 
-#### Image of a human
+### Image of a human
 
 ![Image of a human](https://images.unsplash.com/photo-1461800919507-79b16743b257?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80)
 
@@ -82,7 +82,7 @@ This is a human
 This is a human
 ```
 
-#### What if there are both cars and humans in a picture?
+### What if there are both cars and humans in a picture?
 
 ![image of a human and a car](https://media.gq-magazine.co.uk/photos/607ec2527eb26b199f5cff6a/master/pass/20042021_JC_HP.jpg)
 
@@ -93,7 +93,7 @@ This is a human
 This is a human
 ```
 
-#### Since this is not a multi label classifier the most prominent object in this picture is recognized which in this case is the human.
+### Since this is not a multi label classifier the most prominent object in this picture is recognized which in this case is the human.
 
 
 
