@@ -98,4 +98,4 @@ This is a human
 
 
 
-# Also, the model is for now unable to 'understand' images that don't contain humans or cars, thus results are unexpected. Feel free to ontact me if you have any questions or suggestions.
+##### Also, the model is for now unable to 'understand' images that don't contain humans or cars, thus results are unexpected. Feel free to ontact me if you have any questions or suggestions.
