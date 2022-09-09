@@ -71,7 +71,7 @@ This is a human
 ```
 
 
-#### Let's see if a picture of a person whose legs are concealed will generate the correct output;
+### Let's see if a picture of a person whose legs are concealed will generate the correct output;
 
 ![Image of a woman wearing a dress](https://i0.wp.com/greenweddingshoes.com/wp-content/uploads/2022/03/ivory-flower-girl-dresses.jpg?resize=2048%2C19998)
 
