@@ -1,9 +1,9 @@
 # Cars-or-Humans-Classifier
 
-### Classification model that uses a simple convolutional neural network to distinguish humans from vehicles. Made using Tensorflow and Keras. The model is trained with (number) of images containing humans and (number) of images containing cars.
+### Classification model that uses a simple convolutional neural network to distinguish humans from vehicles. Made using Tensorflow and Keras. The model is trained with 9.532 images depicting humans and 8.144 images depicting cars.
 
-##### Human dataset: (link)
-##### Cars dataset: (link)
+##### Human dataset: (http://vision.stanford.edu/Datasets/Stanford40_JPEGImages.zip)
+##### Cars dataset: (http://ai.stanford.edu/~jkrause/car196/cars_train.tgz)
 
 ## Model architecture
 
@@ -55,7 +55,8 @@ _________________________________________________________________
 #### Output:
 
 ```
-
+1/1 [==============================] - 0s 250ms/step
+This is a car
 ```
 
 #### Image of a human
@@ -65,7 +66,8 @@ _________________________________________________________________
 #### Output:
 
 ```
-
+1/1 [==============================] - 0s 141ms/step
+This is a human
 ```
 
 
@@ -76,7 +78,8 @@ _________________________________________________________________
 #### Output:
 
 ```
-
+1/1 [==============================] - 0s 139ms/step
+This is a human
 ```
 
 #### What if there are both cars and humans in a picture?
@@ -86,7 +89,8 @@ _________________________________________________________________
 #### Output:
 
 ```
-
+1/1 [==============================] - 0s 139ms/step
+This is a human
 ```
 
 #### Since this is not a multi label classifier the most prominent object in this picture is recognized which in this case is the human
