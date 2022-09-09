@@ -1,6 +1,6 @@
 # Cars-or-Humans-Classifier
 
-### Classification model that uses a simple convolutional neural network to distinguish humans from vehicles. Made using Tensorflow and Keras. The model is trained with 9.532 images depicting humans and 8.144 images depicting cars.
+### Classification model that uses a simple convolutional neural network to distinguish humans from vehicles. Made using [Tensorflow](https://www.tensorflow.org/) and [Keras](https://keras.io/). The model is trained with 9.532 images depicting humans and 8.144 images depicting cars.
 
 ##### Human dataset: (http://vision.stanford.edu/Datasets/Stanford40_JPEGImages.zip)
 ##### Cars dataset: (http://ai.stanford.edu/~jkrause/car196/cars_train.tgz)
