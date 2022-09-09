@@ -93,4 +93,9 @@ This is a human
 This is a human
 ```
 
-#### Since this is not a multi label classifier the most prominent object in this picture is recognized which in this case is the human
+#### Since this is not a multi label classifier the most prominent object in this picture is recognized which in this case is the human.
+
+
+
+
+# Also, the model is for now unable to 'understand' images that don't contain humans or cars, thus results are unexpected. Feel free to ontact me if you have any questions or suggestions.
