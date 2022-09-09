@@ -1,0 +1,1 @@
+Human dataset: (http://vision.stanford.edu/Datasets/Stanford40_JPEGImages.zip)
